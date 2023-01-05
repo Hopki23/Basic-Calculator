@@ -1,1 +1,1 @@
-# Basic-Calculator
+Basic calculator for the purpose of training.
